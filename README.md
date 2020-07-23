@@ -1,6 +1,8 @@
 # Spring Batch Examples - Stateful Item Reader
 
-Project with examples using Spring Batch
+Project with examples using Spring Batch.
+
+In this project there are configurations using ItemStreamReader implementation to write data to step context.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
